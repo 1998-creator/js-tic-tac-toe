@@ -1,24 +1,4 @@
 
-//console.log('hello');
-//alert('hello');
-//onClick="nextMove(this)" - kliknięcie odpala funkcję o nazwie onClick
-/*
-inne edytore
-założyć te konta
-czy na tym serwisie na max js oraz es6?
-https://jsfiddle.net/
-https://bootsnipp.com/
-https://codepen.io/bradtraversy/pen/RjpQvZ
-to dla intellit - zastosowąć to tło tutaj
-https://codepen.io/bradtraversy/pen/pWpRom
-jquery - vue? - co za edytor?
-dla bootstrapa?
-bootplay?
-*/
-//jak załadować javascript - bez tego umieszczenie a html?
-//main?
-
-
 
 
 function startGame(){
